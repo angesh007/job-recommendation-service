@@ -8,7 +8,6 @@ This project is a RESTful API service that recommends job postings based on user
 - Store user profiles and job postings in an SQLite database.
 
 ## Setup Instructions
-
 ### Prerequisites
 - Python 3.7+
 - `pip` for installing dependencies
